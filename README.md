@@ -7,7 +7,7 @@ The United States Geological Survey, or USGS for short, is responsible for provi
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. In this challenge, I have been tasked with developing a way to visualize USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
 ## Earthquake Visualization
-I was tasked with creating a visualization of the earthquake dataset. I had to retrieve the geoJSON file, import the information and then use Leaflet to create a mapthat plots all of the earthquakes within the past month. The data markers on the map to show where the earthquake occurred reflect both the magnitude and depth of the earthquake. Additionally, when you click on the marker, you can see additional information on the earthquake.
+I was tasked with creating a visualization of the earthquake dataset. I had to retrieve the geoJSON file, import the information and then use Leaflet to create a mapthat plots all of the earthquakes within the past month. The data markers on the map show where the earthquake occurred and reflect both the magnitude and depth of the earthquake. Additionally, when you click on the marker, you can see additional information on the earthquake.
 
 Earthquake map can be found at: https://laurajordan845.github.io/leaflet-challenge/
 
