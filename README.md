@@ -14,13 +14,13 @@ I was tasked with creating a visualization of the earthquake dataset. I had to r
 ![My Image](LJ_Earthquake_Dashboard.png)
 
 ## Support
-I attended class, reviewed my notes, used the additional resource links provided in the class activities and did a ton of online research to complete this challenge assignment.
+I attended class, reviewed my notes, used the additional resource links provided in the class activities and did a ton of online research to complete this challenge assignment. This is also notated in the logic.js file,  but I used code from the class activity files and leafletjs.com. Code snippets were copy and pasted then edited to align with the tasks of this project.
 
-## Submission Includes -- STILL NEED TO UPDATE WITH INFORMATION
+## Submission Includes 
 * Static folder -> js folder: logic.js file has my code for the assignment
 * Static folder -> css folder: style.css file has the css code that was provided and my additions for the legend 
 * index.html with the HTML code that was provided for the assignment
 * Images folder with images provided with the assignment and the image of my completed project
  
 Additional information can be found at https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
-This is also notated in the logic.js file,  but I used code from the class activity files and leafletjs.com. Code snippets were copy and pasted then edited to align with the tasks of this project.
+
