@@ -10,7 +10,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 I was tasked with creating a visualization of the earthquake dataset. I had to retrieve the geoJSON file, import the information and then use Leaflet to create a mapthat plots all of the earthquakes within the past month. The data markers on the map to show where the earthquake occurred reflect both the magnitude and depth of the earthquake. Additionally, when you click on the marker, you can see additional information on the earthquake.
 
 ### **Project Preview:** 
-Please note, the map will open primarily showing the United States. This is a worldwide dataset so you can drag the map or zoom in/out to see earthquakes in other parts of the world.
+Please note, the map will open primarily showing North America. This is a worldwide dataset so you can drag the map or zoom in/out to see earthquakes in other parts of the world.
 
 ![My Image](LJ_Earthquake_Map.PNG)
 
