@@ -9,7 +9,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 ## Earthquake Visualization
 I was tasked with creating a visualization of the earthquake dataset. I had to retrieve the geoJSON file, import the information and then use Leaflet to create a mapthat plots all of the earthquakes within the past month. The data markers on the map to show where the earthquake occurred reflect both the magnitude and depth of the earthquake. Additionally, when you click on the marker, you can see additional information on the earthquake.
 
-**Project Preview:** 
+### **Project Preview:** 
 Please note, the map will open primarily showing the United States. This is a worldwide dataset so you can drag the map or zoom in/out to see earthquakes in other parts of the world.
 
 ![My Image](LJ_Earthquake_Map.PNG)
@@ -21,7 +21,8 @@ I attended class, reviewed my notes, used the additional resource links provided
 * Static folder -> js folder: logic.js file has my code for the assignment
 * Static folder -> css folder: style.css file has the css code that was provided and my additions for the legend 
 * index.html with the HTML code that was provided for the assignment
-* Images folder with images provided with the assignment and the image of my completed project
+* Images folder with images provided with the assignment 
+* Image of my completed project - LJ_Earthquake_Map.png
  
 Additional information can be found at https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
 
