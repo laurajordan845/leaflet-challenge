@@ -12,7 +12,7 @@ I was tasked with creating a visualization of the earthquake dataset. I had to r
 **Project Preview:** 
 Please note, the map will open primarily showing the United States. This is a worldwide dataset so you can drag the map or zoom in/out to see earthquakes in other parts of the world.
 
-![My Image](Images/LJ_Earthquake_Dashboard.png)
+![My Image](../Images/LJ_Earthquake_Dashboard.png)
 
 ## Support
 I attended class, reviewed my notes, used the additional resource links provided in the class activities and did a ton of online research to complete this challenge assignment. This is also notated in the logic.js file,  but I used code from the class activity files and leafletjs.com. Code snippets were copy and pasted then edited to align with the tasks of this project.
